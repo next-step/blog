@@ -1,8 +1,6 @@
-# 2020년 9월 회고
+## 첫 번째 포스트 - 2020년 9월 회고
 
 - [포스트 링크](https://junilhwang.github.io/TIL/Review/2020-year/09-September/)
-
-## 전체적인 내용
 
 ### 회사일
 - [1. 크롬 확장프로그램](https://junilhwang.github.io/TIL/Review/2020-year/09-September/#_1-%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A9%E1%86%B7-%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%86%B7)
