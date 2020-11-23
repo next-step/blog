@@ -2,7 +2,10 @@
 
 - 10월 1주차
 
+<<<<<<< HEAD:1기(2020.10)/oen142/step1.md
 
+=======
+>>>>>>> 블로그 리뷰:1기(2020.10)/oen142/step.md
 [개발자들이 알아야할 세금 상식](https://wani-coding.tistory.com/112)
 
 [black-coffee-javascript-study-오리엔테이션](https://wani-coding.tistory.com/105)
