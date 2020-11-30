@@ -7,4 +7,3 @@
 ## 링크
 [7. [회고] 파병을 통해 배운 이야기](https://makerjun.com/travel/start-journey)
 [8. [출항] 영해를 넘어](https://makerjun.com/travel/oversea)
-``
