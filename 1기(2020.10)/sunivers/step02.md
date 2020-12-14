@@ -3,4 +3,4 @@
 이번 주 했던 활동들을 정리하며 회고글을 작성해 보았습니다.
 
 
-[개인 블로그](https://soobakba.tistory.com/44)
+[개인 블로그](https://soobakba.tistory.com/43)
