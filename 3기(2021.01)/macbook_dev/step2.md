@@ -8,11 +8,11 @@ https://loopstudy.tistory.com/12
 
 수정사항 있으면 요청 부탁드립니다
 
-
-글 하나 더 추가합니다
-## 객체지향으 사실과 오해 리뷰
-
+## 객체지향의 사실과 오해 리뷰
 https://loopstudy.tistory.com/13
+
+## 21년 2월 학습 목표
+https://loopstudy.tistory.com/14
 
 간략하게 리뷰한거 같지만 다음 글은 더 퀄리티 있게
 
