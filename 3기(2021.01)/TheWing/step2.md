@@ -7,8 +7,6 @@
 
 
 
-
-
 백기선님 LiveStudy
 
 - [11주차 과제: Enum](https://sujl95.tistory.com/66)
@@ -16,3 +14,7 @@
 REST API 정리
 
 - [REST API](https://sujl95.tistory.com/68)
+
+Be-Docs 스터디 TDD 발표 후기
+
+- [Be-Docs 스터디 TDD 발표 후기](https://sujl95.tistory.com/70)
