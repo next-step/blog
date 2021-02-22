@@ -38,9 +38,11 @@
 - [YYYYMMDD 게시글 이름](링크)
 ```
 ✅ 3. PR을 아래 양식에 맞춰 내용을 작성한다. <br/>
+
 ```
 title: 글 제목
 description: 이번 글은 1분기 회고입니다.
+category: 회고
 link: [블로그 링크]()
 ```
 
