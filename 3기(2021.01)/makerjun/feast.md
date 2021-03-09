@@ -4,6 +4,6 @@
 재미로 봐주세요~
 
 ## 링크
-[11. [유머] 만월의 밤 함상에서의 만찬](http://localhost:3000/travel/feast)
 
+[11. [유머] 만월의 밤 함상에서의 만찬](http://localhost:3000/travel/feast)
 
