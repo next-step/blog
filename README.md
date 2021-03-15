@@ -1,3 +1,3 @@
 # 링크
 
-[어떻게 공부해야 하는가](https://velog.io/@jjunyjjuny/%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
+[Node.js 프로젝트 배포하기 (Heroku)](https://velog.io/@jjunyjjuny/Node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-Heroku)
