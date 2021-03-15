@@ -63,3 +63,6 @@ link: [블로그 링크]()
 
 <br/>
 
+
+4기
+- [20210308 [공부] RDBMS의 동시성 제어 (1) lock](https://syundev.tistory.com/283)
