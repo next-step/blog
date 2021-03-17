@@ -1,3 +1,7 @@
+## 4기 명다연 
+- [20210309 JAVA Generic](https://velog.io/@meme2367/JAVA-Generic)
+- [20210317 스프링 프레임워크 핵심기술 Bean의 scope](https://velog.io/@meme2367/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0-Bean%EC%9D%98-scope)
+
 ## ☕ 블랙커피 블로그 스터디
 
 나의 경험, 다른 사람의 경험에서 통찰을 얻기 위한 블로그 스터디
@@ -64,7 +68,3 @@ link: [블로그 링크]()
 블로그 스터디 관련하여 제안사항이 있다면 발견한다면, [Issues](https://github.com/next-step/blog/issues) 에 등록해주세요!
 
 <br/>
-
-
-## 4기 명다연 
-- [20210309 JAVA Generic](https://velog.io/@meme2367/JAVA-Generic)
