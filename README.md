@@ -65,3 +65,4 @@ link: [블로그 링크]()
 
 4기
 - [20210315 쿠팡의 뉴욕증시 상장을 보며 드는 생각](https://www.notion.so/174ab79c43cb414b827bbb7170ef2cdf)
+- [20210322 프레임워크 없는 프론트엔드 개발](https://www.notion.so/8e86d640565e4a438cbefe3be1236012)
