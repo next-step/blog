@@ -11,3 +11,6 @@
 
 ## 2021-03-15 월 2주차 블로그 글 등록
 - [20210315 프로젝트를 시작하기에 앞서 - package 설정](https://velog.io/@bigsaigon333/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%97%90-%EC%95%9E%EC%84%9C-package-%EC%84%A4%EC%A0%95)
+
+## 2021-03-22 월 3주차 블로그 글 등록
+- [20210322 gh-pages: dist 디렉토리만 deploy 하기](https://velog.io/@bigsaigon333/gh-pages-dist-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC%EB%A7%8C-deploy-%ED%95%98%EA%B8%B0)
