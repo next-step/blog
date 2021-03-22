@@ -6,5 +6,5 @@
 - [20210315 [css] 색상](https://velog.io/@younoah/css-color)
 
 - [20210315 [css] background](https://velog.io/@younoah/css-background)
-- [20210315 [css] box model](https://velog.io/@younoah/css-boxmodel)
+- [20210315 [css] 박스모델](https://velog.io/@younoah/css-boxmodel)
 
