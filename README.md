@@ -1,3 +1,3 @@
-4기, loop-study
-### ☝️ 1주차 
-- [2021-03-08 3월 목표](https://loopstudy.tistory.com/29)
+## 4기 박현철
+- [20210318 TDD, Clean Code with Java, 시작하며..](https://loopstudy.tistory.com/34)
+- [20210318 TDD, Clean Code with Java, 자동차 미션 후기](https://loopstudy.tistory.com/35)
