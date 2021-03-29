@@ -1,3 +1,2 @@
 ## 4기 박현철
-- [20210318 TDD, Clean Code with Java, 시작하며..](https://loopstudy.tistory.com/34)
-- [20210318 TDD, Clean Code with Java, 자동차 미션 후기](https://loopstudy.tistory.com/35)
+- [20210329 TDD, Clean Code with Java, - 미션2 로또 후](https://loopstudy.tistory.com/36)
