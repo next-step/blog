@@ -23,7 +23,7 @@
 
 ## 🚀 진행방법
 
-5기
+5기 그루밍 
 - [20210419 Create React App(CRA) 없이 React 시작하기](https://mingule.tistory.com/57)
 
 <br/>
