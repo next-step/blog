@@ -21,10 +21,11 @@
 <br/>
 
 
-## 🚀 진행방법
+## 🚀 진행 현황
 5기 조엘
 - [20210414 저는 SOLID가 처음이라니까요? (1편)](https://papimon.tistory.com/77)
 - [20210415 저는 SOLID가 처음이라니까요? (2편)](https://papimon.tistory.com/78)
+- [20210426 Level1 미션 + 학습 로그 정리](https://papimon.tistory.com/79)
 
 ## **👏 Contributing**
 
