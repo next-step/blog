@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://imakerjun@github.com/imakerjun/blog.git",
+  "author": "임동준 <imakerjun@gmail.com>",
+  "license": "MIT"
+}
