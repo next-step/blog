@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/language-md-md.svg?style=flat-square"/>
 </p>
 
+<p align="middle">
+  <a href="https://blackcoffee.blog/">📝 플랫폼 링크</a>
+</p>
+
 <br/>
 
 # ☕ 블랙커피 블로그 스터디
