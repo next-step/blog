@@ -1,2 +1,2 @@
 ## 5기 loop-study 
-- [20210419, 이규원의 현실 세상의 TDD, 기초](https://loopstudy.tistory.com/category/교육/이규원의%20현실%20세상의%20TDD)
+- [20210427, 소프트웨어 장인을 시작하면서](https://loopstudy.tistory.com/46)
