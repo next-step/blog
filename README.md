@@ -36,6 +36,18 @@
 
 <br/>
 
+## 📝 5기 피케이의 글
+
+### [2주차] - 책 읽고 학습한 내용 정리
+[웹과 네트워크의 기본에 대해 알아보자 - 그림으로 배우는 http & network basic 1장](https://www.notion.so/pkeu/1-df10db1f96474f569d3a3ad74dbdde51)
+
+[DBMS의 특징과 SQL - SQL 첫걸음 1강](https://www.notion.so/pkeu/1-9f28a4154c154e468b5f529a5c6f5725)
+
+[Hello World 실행하기 - SQL 첫걸음 4강](https://www.notion.so/pkeu/4-7b61acb202874ee98552d133c7ea51e5)
+
+[테이블 구조 참조하기 - SQL 첫걸음 5강](https://www.notion.so/pkeu/5-cdeccc9f9a0e459f94e2902ca6dc4dde)
+
+[검색 조건 지정하기 - SQL 첫걸음 6강](https://www.notion.so/pkeu/6-f0e80a9337c14f6fbd7937dc3b9c3d71)
 
 ## 🚀 진행방법
 
