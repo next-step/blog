@@ -4,3 +4,4 @@
 - [2021-03-22 AWS IAM Role 이란?](https://wani-coding.tistory.com/150)
 - [2021-03-22 AWS 실수 모음](https://wani-coding.tistory.com/154)
 
+- [AWS 구디 모임 발표 후기](https://wani-coding.tistory.com/157)
