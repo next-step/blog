@@ -35,4 +35,10 @@
 ## 2021-04-19 월 5기 1주차 블로그 글 등록
 
 - [20210419 페어 프로그래밍을 더 잘하기 위하여 - 셀프 회고](https://velog.io/@bigsaigon333/%ED%8E%98%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%98%EC%97%AC-%EC%85%80%ED%94%84-%ED%9A%8C%EA%B3%A0)
+
+---
+
+## 2021-04-26 월 5기 2주차 블로그 글 등록
+
+- [20210426 What I Learned: Level1 javascript-lotto](https://velog.io/@bigsaigon333/Level1-javascript-lotto-%ED%95%99%EC%8A%B5-%EB%A1%9C%EA%B7%B8)
 ---
