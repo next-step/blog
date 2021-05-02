@@ -23,34 +23,8 @@
 
 ## 🚀 진행방법
 
-### ✅ 1. 자유 주제(책, 경험, 개발, 공부)로 1주일에 글을 한편 작성한다. <br/>
-### ✅ 2. 배포한 블로그 페이지 링크를 fork한 본인의 저장소의 README에 작성한다. <br/>
-```
-예시
-2기
-- [YYYYMMDD 게시글 이름](링크)
-- [YYYYMMDD 게시글 이름](링크)
-- [YYYYMMDD 게시글 이름](링크)
-
-1기
-- [YYYYMMDD 게시글 이름](링크)
-- [YYYYMMDD 게시글 이름](링크)
-- [YYYYMMDD 게시글 이름](링크)
-```
-### ✅ 3. PR을 아래 양식에 맞춰 내용을 작성한다. <br/>
-우선 카테고리는 `회고`, `기술블로그`, `책`, `강의정리` 등 명확한 단어로 표현해주세요. 
-올려주시는 키워드에 따라서 추상화 작업을 거치겠습니다!
-
-```
-title: 글 제목
-description: 이번 글은 1분기 회고입니다.
-category: 회고
-link: [블로그 링크]()
-```
-
-### ✅ 4. 온라인 세션 시간에 서로의 글을 읽고 간단한 피드백 및 리뷰를 남기고 회고의 시간을 가진다. <br/>
-
-<br/>
+- [SOLID 를 알아보자](https://lns13301.github.io/github-blog/solid/)
+- [자바의 객체 지향 프로그래밍 학습 프로필](https://lns13301.github.io/github-blog/level1-interview-education-profile/)
 
 ## **👏 Contributing**
 
