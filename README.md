@@ -25,7 +25,7 @@
 
 5기 조앤
 - [20210418 주간 회고 : Feedback](https://joanne.tistory.com/128)
-- [20210503 Java는 Call By Reference일까, Call By Value일까?][https://joanne.tistory.com/144]
+- [20210503 Java는 Call By Reference일까, Call By Value일까?](https://joanne.tistory.com/144)
 
 <br/>
 
