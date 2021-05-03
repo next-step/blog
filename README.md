@@ -41,4 +41,3 @@
 블로그 스터디 관련하여 제안사항이 있다면 발견한다면, [Issues](https://github.com/next-step/blog/issues) 에 등록해주세요!
 
 <br/>
-
