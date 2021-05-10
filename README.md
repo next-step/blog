@@ -26,6 +26,7 @@
 - [20210414 저는 SOLID가 처음이라니까요? (1편)](https://papimon.tistory.com/77)
 - [20210415 저는 SOLID가 처음이라니까요? (2편)](https://papimon.tistory.com/78)
 - [20210426 Level1 미션 + 학습 로그 정리](https://papimon.tistory.com/79)
+- [20210510 저는 소켓이 처음이라니까요?](https://papimon.tistory.com/80)
 
 ## **👏 Contributing**
 
