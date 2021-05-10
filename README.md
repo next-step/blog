@@ -43,3 +43,4 @@
 #### 5기
 
 - [함께 자라기를 읽고](https://yujo11.github.io/%EC%84%9C%ED%8F%89/%ED%95%A8%EA%BB%98%20%EC%9E%90%EB%9D%BC%EA%B8%B0%EB%A5%BC%20%EC%9D%BD%EA%B3%A0/)
+- [Vanilla JS 프로젝트 세팅하기](https://yujo11.github.io/javascript/Vanilla%20JS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/)
