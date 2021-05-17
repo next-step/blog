@@ -1,2 +1,2 @@
 ## 5기 loop-study  
-- [20210510, 5월 1주차 회고](https://loopstudy.tistory.com/68)  
+- [20210517, 소프트웨어 장인 Part2~마지막까지](https://loopstudy.tistory.com/category/책/소프트웨어%20장인)  
