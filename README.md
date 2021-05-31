@@ -1,2 +1,3 @@
-## 5기 loop-study  
-- [20210517, 소프트웨어 장인 Part2~마지막까지](https://loopstudy.tistory.com/category/책/소프트웨어%20장인)   
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|5월 4주차 회고 및 목표|회고록|지난 주 회고입니다.|[링크](https://loopstudy.tistory.com/105)|
