@@ -1,3 +1,2 @@
-|제목|카테고리|설명|링크|
-|---|---|---|---|
-|5월 4주차 회고 및 목표|회고록|지난 주 회고입니다.|[링크](https://loopstudy.tistory.com/105)|
+## 6기 loop-study
+- [20210531, 5월 4주차 회고 및 목표](https://loopstudy.tistory.com/105)   
