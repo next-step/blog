@@ -44,3 +44,8 @@
 
 - [함께 자라기를 읽고](https://yujo11.github.io/%EC%84%9C%ED%8F%89/%ED%95%A8%EA%BB%98%20%EC%9E%90%EB%9D%BC%EA%B8%B0%EB%A5%BC%20%EC%9D%BD%EA%B3%A0/)
 - [Vanilla JS 프로젝트 세팅하기](https://yujo11.github.io/javascript/Vanilla%20JS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0/)
+
+
+#### 6기
+
+- [우테코에서 찾은 나만의 효과적인 공부법](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A82-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%AF%B8%EC%85%98/)
