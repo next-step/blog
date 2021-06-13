@@ -42,6 +42,9 @@
 
 6기
 - [20210527 터커의 '컴맹을 위한 프로그래밍 기초 강좌' 후기](https://true-bird.tistory.com/89)
+- [[LeetCode] 104. Maximum Depth of Binary Tree (golang)](https://true-bird.tistory.com/98?category=840434)
+- [[LeetCode] 409. Longest Palindrome (golang)](https://true-bird.tistory.com/99?category=840434)
+- [[LeetCode] 516. Longest Palindromic Subsequence(golang)](https://true-bird.tistory.com/100?category=840434)
 
 
 
