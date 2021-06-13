@@ -6,4 +6,7 @@
 ## week 2
 - [2021.06.06 자기객관화의 중요성](https://www.notion.so/5fc14584d9d641b4889b02d43210f8aa)
 
+## week 3
+- [2021.06.13 대학원 진학 vs 이직] (https://www.notion.so/vs-1e9b91d213b64786835daa098866b32b)
+
 
