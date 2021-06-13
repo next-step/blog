@@ -45,3 +45,4 @@
 
 6기
 - [20210529 Git을 공부하면서 알게 된 것들](https://velog.io/@shroad1802/Git)
+- [20210613 NPM에 패키지 배포하기](https://velog.io/@shroad1802/NPM%EC%97%90-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
