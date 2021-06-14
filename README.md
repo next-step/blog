@@ -11,3 +11,4 @@
 6기
 - [20210530 RunDay '30분 달리기 도전'](https://www.notion.so/RunDay-30-833f24a8350b4e069ec57458b2c7e945)
 - [20210530 RunDay '30분 달리기 회고'](https://www.notion.so/RunDay-30-6f0505ccf5784b53a69c363cbe99947c)
+- [20210605 내가 Vim 을 사용하는 이유](https://www.notion.so/Vim-aa12aa53ba0a4b2f87dfde83fce5def9)
