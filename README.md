@@ -9,4 +9,8 @@
 ## week 3
 - [2021.06.13 대학원 진학 vs 이직] (https://www.notion.so/vs-1e9b91d213b64786835daa098866b32b)
 
+## week 4
+- [2021.06.21 Musiclab BGM project 개요](https://www.notion.so/Musiclab-Bgm-Project-4c62d145ad544d2180c1661859f9f6d1)
+- [2021.06.21 Musiclab BGM 기술 스택](https://www.notion.so/a0547e030a8d454d851786663537974e)
+
 
