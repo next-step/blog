@@ -15,3 +15,4 @@
 ### 6기
 - [20210510 [회고] 2021년 5월 4주차 회고록](https://catsbi.oopy.io/1e99440b-4e6f-4070-8816-231f6af8d2f8)
 - [20210614 [회고] 2021년 6월 2주차 회고록](https://catsbi.oopy.io/8ff704e5-eb71-482e-a020-69bafd2eef89)
+- [20210621 [회고] 2021년 6월 3주차 회고록](https://catsbi.oopy.io/898a3f58-d48e-47bd-8387-07f8ecf4ab2f)
