@@ -45,7 +45,7 @@
 
 7기
 - 1주차
-- [20210708 버블정렬(insertion Sort)]https://workoutdevelop.tistory.com/9?category=960410
+- [20210708 삽입정렬(insertion Sort)]https://workoutdevelop.tistory.com/9?category=960410
 
 
 ✅ 3. PR을 아래 양식에 맞춰 내용을 작성합니다.
@@ -54,7 +54,7 @@
 ```
 |제목|카테고리|설명|링크|
 |---|---|---|---|
-|버블정렬|기술블로그|버블정렬에 대한 설명입니다.|[https://workoutdevelop.tistory.com/9?category=960410]()|
+|버블정렬|기술블로그|삽입정렬에 대한 설명입니다.|[https://workoutdevelop.tistory.com/9?category=960410]()|
 ```
 ex) 만약 여러개의 링크를 한번에 올리고 싶다면
 ```
