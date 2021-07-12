@@ -47,3 +47,7 @@
 - [프로그래머스 카카오커머스 챌린지 후기](https://kowoohyuk.tistory.com/127)
 - [코드스쿼드 마지막 프로젝트를 시작하며...](https://kowoohyuk.tistory.com/132)
 - [최근들어 고민이 많아졌다.](https://kowoohyuk.tistory.com/134)
+
+#### 7기
+
+- [우아한테크캠프 4기를 시작하며..](https://kowoohyuk.tistory.com/136)
