@@ -51,7 +51,3 @@
 - [우테코에서 찾은 나만의 효과적인 공부법](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A82-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%AF%B8%EC%85%98/)
 - [Parcel로 간단하게 React + TypeScript 프로젝트 세팅하기 (feat. eslint, Tailwind)](https://yujo11.github.io/React/Parcel%EB%A1%9C%20%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C%20React%20+%20TypeScript%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0%20(feat.%20eslint,%20Tailwind)/)
 - [json-server로 간단하게 Mock Server 만들어서 사용하기](https://yujo11.github.io/web/json-server%EB%A1%9C%20Mock%20Server%EB%A7%8C%EB%93%A4%EA%B8%B0/)
-
-#### 7기
-
-- [Webpack으로 React + TypeScript + Styled Component + Storybook 세팅하기](https://yujo11.github.io/React/React-TS-Webpack-%EC%84%B8%ED%8C%85/)
