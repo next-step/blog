@@ -16,3 +16,7 @@
 - [20210510 [회고] 2021년 5월 4주차 회고록](https://catsbi.oopy.io/1e99440b-4e6f-4070-8816-231f6af8d2f8)
 - [20210614 [회고] 2021년 6월 2주차 회고록](https://catsbi.oopy.io/8ff704e5-eb71-482e-a020-69bafd2eef89)
 - [20210621 [회고] 2021년 6월 3주차 회고록](https://catsbi.oopy.io/898a3f58-d48e-47bd-8387-07f8ecf4ab2f)
+
+
+### 7기
+- [20210712 [네트워크] 라우터/L3 스위치](https://catsbi.oopy.io/225439bd-ec84-4e16-aeca-0dfcb9954ea6)
