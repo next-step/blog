@@ -43,5 +43,6 @@
 # ☕ 글 목록
 7기
 - [2021-07-08 NextStep JS 블랙커피 스터디 level1 회고](https://blog.naver.com/seows2/222424596547)
+- [2021-07-19 요즘 드는 생각들](https://blog.naver.com/seows2/222435906909)
 
 
