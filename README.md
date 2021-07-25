@@ -55,3 +55,4 @@
 #### 7기
 
 - [Webpack으로 React + TypeScript + Styled Component + Storybook 세팅하기](https://yujo11.github.io/React/React-TS-Webpack-%EC%84%B8%ED%8C%85/)
+- [webpack plugin을 이용한 favicon, manifest.json 추가 방법](https://yujo11.github.io/webpack/webpack%20favicon,%20manifest.json%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
