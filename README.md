@@ -16,3 +16,5 @@
 
 7기
 - [20210711 2021년 상반기 회고](https://www.notion.so/2021-7f1f30f11e9a4042bc1e5fe40650a573)
+- [20210726 모던 자바스크립트 Deep Dive와 프로그래밍 그리고 나의 생각](https://www.notion.so/Deep-Dive-158b465377ac4623b9e6ed42fd9daa8c)
+
