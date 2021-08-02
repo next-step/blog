@@ -52,3 +52,4 @@
 
 - [우아한테크캠프 4기를 시작하며..](https://kowoohyuk.tistory.com/136)
 - [우아한테크캠프 4기 1주차 회고](https://kowoohyuk.tistory.com/137)
+- [회고의 회고](https://kowoohyuk.tistory.com/140)
