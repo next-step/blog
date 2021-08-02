@@ -28,6 +28,9 @@
 - [20210426 Level1 미션 + 학습 로그 정리](https://papimon.tistory.com/79)
 - [20210510 저는 소켓이 처음이라니까요?](https://papimon.tistory.com/80)
 
+7기 조엘
+- [20210726 좋은 스타트업?](https://papimon.tistory.com/87)
+
 ## **👏 Contributing**
 
 만약 미션 수행 중에 개선사항이 보인다면, 언제든 자유롭게 PR을 보내주세요. 😆
