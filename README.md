@@ -1,5 +1,6 @@
 7기
-- [20210712 HTTPS(2) - 통신과정](https://mmtos.notion.site/HTTPS-2-f063eb04bea449e2a690556757132d4c)
+- [20210802 HTTPS(3) - JAVA에서의 TLS(https://mmtos.notion.site/HTTPS-3-JAVA-TLS-fead312c141546c5b8357c274614da38)
+- [20210719 HTTPS(2) - 통신과정](https://mmtos.notion.site/HTTPS-2-f063eb04bea449e2a690556757132d4c)
 - [20210712 HTTPS(1) - 인증서](https://www.notion.so/mmtos/HTTPS-1-a0c39c33a7054121838928ba2f2a817d)
 
 6기
