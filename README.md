@@ -12,3 +12,11 @@
 |제목|카테고리|설명|링크|
 |---|---|---|---|
 |생각정리|회고|다양한 일상적인 주제에 대해 스스로의 생각을 정리해봤습니다.|[링크](https://junilhwang.github.io/TIL/Writing/03-%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/)|
+
+
+### 3주차
+
+
+|제목|카테고리|설명|링크|
+|---|---|---|---|
+|Vanilla JS로 상태관리 시스템 만들기|기술블로그|Vanilla JS를 이용해서 Vuex나 Redux 같은 상태관리 프레임워크를 만드는 방법에 대해 소개합니다.|[링크](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)|
