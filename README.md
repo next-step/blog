@@ -1,26 +1,9 @@
-## 7기
+7기
+- [20210802 HTTPS(3) - JAVA에서의 TLS](https://mmtos.notion.site/HTTPS-3-JAVA-TLS-fead312c141546c5b8357c274614da38)
+- [20210719 HTTPS(2) - 통신과정](https://mmtos.notion.site/HTTPS-2-f063eb04bea449e2a690556757132d4c)
+- [20210712 HTTPS(1) - 인증서](https://www.notion.so/mmtos/HTTPS-1-a0c39c33a7054121838928ba2f2a817d)
 
-### 1주차
-
-|제목|카테고리|설명|링크|
-|---|---|---|---|
-|주니어 개발자의 2021년 상반기 회고|회고|2021년 상반기에 대해 정리한 내용입니다.|[링크](https://junilhwang.github.io/TIL/Review/2021-year/01-First-Quarter/#_1-2021%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%86%E1%85%A9%E1%86%A8%E1%84%91%E1%85%AD%E1%84%8B%E1%85%A6-%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%AC%E1%84%80%E1%85%A9)|
-
-### 2주차
-
-|제목|카테고리|설명|링크|
-|---|---|---|---|
-|생각정리|회고|다양한 일상적인 주제에 대해 스스로의 생각을 정리해봤습니다.|[링크](https://junilhwang.github.io/TIL/Writing/03-%EC%83%9D%EA%B0%81%EC%A0%95%EB%A6%AC/)|
-
-
-### 3주차
-
-|제목|카테고리|설명|링크|
-|---|---|---|---|
-|Vanilla JS로 상태관리 시스템 만들기|기술블로그|Vanilla JS를 이용해서 Vuex나 Redux 같은 상태관리 프레임워크를 만드는 방법에 대해 소개합니다.|[링크](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)|
-
-### 4주차
-
-|제목|카테고리|설명|링크|
-|---|---|---|---|
-|Vanilla JS로 가상돔 구현하기|기술블로그|Vanilla JS를 이용해서 Vue나 React에서사용되는 가상돔의 개념을 이해하고, 이를 이용하여 렌더링과정을 최적화 하는 방법에 대해 소개합니다.|[링크](https://www.notion.so/zuminternet/Vanilla-Javascript-41f48f6040274a68867cb4f762134745)|
+6기
+- [20210614 IntelliJ는 어떤방법으로 Java프로그램을 디버깅할까](https://www.notion.so/mmtos/IntelliJ-Java-5c19e3b227924be9bbce8504e1d8db08)
+- [20210607 JXLS 라이브러리사용후기](https://www.notion.so/mmtos/JXLS-CORE-4876e978407d4479b62bd7bc9574aa5d)
+- [20210607 상태패턴](https://www.notion.so/mmtos/1-d427f026062f468181116029156e2de5)
