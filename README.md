@@ -1,3 +1,6 @@
+8기 
+- [20210927 모바일 앱 분류](https://mmtos.notion.site/mmtos/19782df7573644cc838c8f544ba904a9#03ff7fe653314633a247f538e1399d26) 
+- 
 7기
 - [20210802 HTTPS(3) - JAVA에서의 TLS](https://mmtos.notion.site/HTTPS-3-JAVA-TLS-fead312c141546c5b8357c274614da38)
 - [20210719 HTTPS(2) - 통신과정](https://mmtos.notion.site/HTTPS-2-f063eb04bea449e2a690556757132d4c)
