@@ -19,3 +19,6 @@
 - [20210726 모던 자바스크립트 Deep Dive와 프로그래밍 그리고 나의 생각](https://www.notion.so/Deep-Dive-158b465377ac4623b9e6ed42fd9daa8c)
 - [20210801 루티너리를 이용한 아침 루틴 형성](https://rain-digit-eb9.notion.site/09943a25e8684fb48f3a8b11f129e0bf)
 
+8기
+- [20210927 '안녕 나야' 프로젝트 회고](https://rain-digit-eb9.notion.site/453ce78eb4294d759849abb12c7e9dcb)
+
