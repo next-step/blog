@@ -60,3 +60,4 @@
 #### 8기
 
 - [Gatsby.js와 Next.js 간단 비교](https://yujo11.github.io/web/gatsby%EC%99%80%20nextjs%EB%8A%94%20%EB%AD%90%EA%B0%80%EB%8B%A4%EB%A5%BC%EA%B9%8C/)
+
