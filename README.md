@@ -19,6 +19,10 @@
 
 [jereint20 (제레인트 20) - velog](https://velog.io/@jereint20)
 
+## 8기
+
+- [신입 개발자가 알면 좋은 개발 외적인 개념](https://velog.io/@jereint20/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C-%EC%99%B8%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90) - 2021. 09. 27
+
 ## 6기
 
 - [FE 개발자가 구독중인 유튜브](https://velog.io/@jereint20/FE-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B5%AC%EB%8F%85%EC%A4%91%EC%9D%B8-%EC%9C%A0%ED%8A%9C%EB%B8%8C) - 2021. 06. 13
