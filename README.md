@@ -28,3 +28,4 @@
 ## 8기
 
 - [20210920 - testing-library 도입기](https://luke-tofu.tistory.com/entry/testing-library-도입기)
+- [20211004 - 여러분의 멘탈은 안녕하신가요](https://luke-tofu.tistory.com/entry/여러분의-멘탈은-안녕하신가요)
