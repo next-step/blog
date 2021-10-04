@@ -51,3 +51,8 @@
 ## 2021-09-27 월 8기 1주차 블로그 글 등록
 
 - [20210924 Yarn Berry 도입기](https://velog.io/@bigsaigon333/Yarn-berry-%EB%8F%84%EC%9E%85%EA%B8%B0)
+
+
+## 2021-10-04 월 8기 2주차 블로그 글 등록
+
+- [20211004 기술적으로 어려운 문제를 해결한 경험: Redux 도입기](https://velog.io/@bigsaigon333/Redux-%EB%8F%84%EC%9E%85%EA%B8%B0)
