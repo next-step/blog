@@ -47,4 +47,4 @@
 8기
 - [20210924 Django-암호화/로그인 구현 및 배경지식 스터디](https://velog.io/@nzlk112/Django-%EC%95%94%ED%98%B8%ED%99%94%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0-%EA%B3%B5%EB%B6%80%ED%95%9C-%EA%B2%83)
 
-
+- [파이썬 - 클래스와 인스턴스의 개념과 동작](https://velog.io/@nzlk112/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%83%81%EC%86%8D%EC%9D%98-%EB%8F%99%EC%9E%91)
