@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://blackcoffee.oopy.io/">☕ 플랫폼 링크</a>
+  <a href="https://www.blackcoffee.oopy.io/">☕ 플랫폼 링크</a>
 </p>
 
 <br/>
