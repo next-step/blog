@@ -10,3 +10,4 @@
 
 ### 8기
 - [20211004 'Selenium 이란?'](https://seondongpyo.github.io/selenium/selenium-introduction/)
+- [20211011 'Selenium 시작하기'](https://seondongpyo.github.io/selenium/selenium-basic-api/)
