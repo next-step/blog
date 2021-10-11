@@ -21,4 +21,5 @@
 
 8기
 - [20210927 '안녕 나야' 프로젝트 회고](https://rain-digit-eb9.notion.site/453ce78eb4294d759849abb12c7e9dcb)
+- [20211011 자세에 관하여](https://rain-digit-eb9.notion.site/b8b6411997cc422e93aba8a86d7a4a9d)
 
