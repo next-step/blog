@@ -22,3 +22,10 @@
 - [20210712 [네트워크] 라우터/L3 스위치](https://catsbi.oopy.io/225439bd-ec84-4e16-aeca-0dfcb9954ea6)
 - [20210719 [회고] 2021년 7월 2주차 회고록](https://catsbi.oopy.io/95e8c784-0bca-4d7d-abea-94d9a61d76b6)
 - [20210726 [회고] 2021년 7월 3주차 회고록](https://catsbi.oopy.io/95ad1332-1cd9-4211-aa63-4122bf8e14a2)
+
+
+### 8기
+- [20210927 [회고] 2021년 9월 4주차 회고록 - 반복의 미학](https://catsbi.oopy.io/0ea88d9b-0047-4576-b91c-9a8239279a14)
+- [20211011 [회고] 2021년 10월 1주차 회고록 - 과욕2](https://catsbi.oopy.io/14cdb673-68a8-4bb7-8eac-a82f6659b465)
+- [20211018 [기타] 개인 프로젝트 진행 상황 ](https://catsbi.oopy.io/82fb6ce9-a439-4ced-b8e5-759fda97970f)
+
