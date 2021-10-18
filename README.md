@@ -21,6 +21,7 @@
 
 ## 8기
 
+- [통증 재활 1/2 진행기 (움직임 S FIT 후기 1)](https://velog.io/@jereint20/%ED%86%B5%EC%A6%9D-%EC%9E%AC%ED%99%9C-12-%EC%A7%84%ED%96%89%EA%B8%B0-%EC%9B%80%EC%A7%81%EC%9E%84-S-FIT-%ED%9B%84%EA%B8%B0-1) - 2021.10.18
 - [신입 개발자가 알면 좋은 개발 외적인 개념](https://velog.io/@jereint20/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C-%EC%99%B8%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90) - 2021. 09. 27
 
 ## 6기
