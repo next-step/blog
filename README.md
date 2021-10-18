@@ -56,3 +56,9 @@
 
 - [Webpack으로 React + TypeScript + Styled Component + Storybook 세팅하기](https://yujo11.github.io/React/React-TS-Webpack-%EC%84%B8%ED%8C%85/)
 - [webpack plugin을 이용한 favicon, manifest.json 추가 방법](https://yujo11.github.io/webpack/webpack%20favicon,%20manifest.json%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
+
+#### 8기
+
+- [Gatsby.js와 Next.js 간단 비교](https://yujo11.github.io/web/gatsby%EC%99%80%20nextjs%EB%8A%94%20%EB%AD%90%EA%B0%80%EB%8B%A4%EB%A5%BC%EA%B9%8C/)
+- [SVG 기반의 에디터 프로젝트 개발기 - 1. 시작](https://yujo11.github.io/svg/svg-editor-01/)
+
