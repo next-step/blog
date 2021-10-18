@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://blackcoffee.blog/">☕ 플랫폼 링크</a>
+  <a href="https://www.blackcoffee.oopy.io/">☕ 플랫폼 링크</a>
 </p>
 
 <br/>
@@ -46,5 +46,7 @@
 
 8기
 - [20211018 1차 프로젝트 - 총정리](https://velog.io/@nzlk112/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4.-%EC%B4%9D%EC%A0%95%EB%A6%AC)
-
 - [20211013 Django - QuerysetAPI 2. 기초 메서드와 SQL](https://velog.io/@nzlk112/Django-QuerysetAPI-2.-ORM-%EA%B3%BC-SQL)
+
+<br/>
+
