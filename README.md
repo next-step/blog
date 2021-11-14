@@ -18,5 +18,6 @@
 # ☕ 9기
 
 - [20211108 [강의정리] 개체지향과 설계](https://cookie-giant-a00.notion.site/1-cfafc1e140874f6ebfdd63118a273b6a)
-  <!-- - [YYYYMMDD 게시글 이름](링크) -->
+- [20211114 [강의정리] OOP-class](https://cookie-giant-a00.notion.site/2-OOP-class-9d37334197094091a99002a7c4fd5aaa)
+- [20211114 [강의정리] OOP-모델링](https://cookie-giant-a00.notion.site/2-OOP-8114ec073af645e589294304144a062b)
   <!-- - [YYYYMMDD 게시글 이름](링크) -->
