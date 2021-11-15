@@ -1,6 +1,6 @@
 9기
 - [20211107 FEConf KOREA 2021 에서 받은 인사이트](https://code-reading.tistory.com/122)
-- [리액트 라우터 이해하기(https://code-reading.tistory.com/123)
+- [리액트 라우터 이해하기](https://code-reading.tistory.com/123)
 <!-- <br/>
 <p align="middle" >
   <img width="200px;" src="./src/images/coffee_emoji.png"/>
