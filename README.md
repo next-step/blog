@@ -10,7 +10,7 @@
 </p>
 
 <p align="middle">
-  <a href="https://blackcoffee.blog/">☕ 플랫폼 링크</a>
+  <a href="https://blackcoffee.blog">☕ 블랙커피 블로그 글 모음 링크</a>
 </p>
 
 <br/>
