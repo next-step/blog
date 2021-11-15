@@ -17,3 +17,4 @@
 
 ## 9기
 - 20211108 [[JS] 날짜와 시간을 관리하기 위해 Luxon 라이브러리 사용하기](https://jamie95.tistory.com/187)
+- 20211115 [[H2] H2 DB의 특징과 사용에 대한 고찰](https://jamie95.tistory.com/188)
