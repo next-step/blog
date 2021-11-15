@@ -22,7 +22,7 @@
 
 |제목|카테고리|설명|링크|
 |---|---|---|---|
-|prologue: 블로그를 시작하는 이유|About|블로그 글 주제 소개|[prologue: 블로그를 시작하는 이유](https://bit.ly/blog-yejinc-1)|
+| prologue: 이런 글을 써볼까 합니다 | About | 블로그 글 주제 소개 | [prologue: 이런 글을 써볼까 합니다](https://bit.ly/blog-yejinc-1) |
 
 </div>
 
