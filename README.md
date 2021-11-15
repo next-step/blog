@@ -53,3 +53,7 @@
 - [우아한테크캠프 4기를 시작하며..](https://kowoohyuk.tistory.com/136)
 - [우아한테크캠프 4기 1주차 회고](https://kowoohyuk.tistory.com/137)
 - [회고의 회고](https://kowoohyuk.tistory.com/140)
+
+#### 9기
+
+- [2021년 코드스쿼드 프론트엔드 마스터즈 코스 후기](https://kowoohyuk.tistory.com/153)
