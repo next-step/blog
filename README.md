@@ -20,4 +20,6 @@
 - [20211108 [강의정리] 개체지향과 설계](https://cookie-giant-a00.notion.site/1-cfafc1e140874f6ebfdd63118a273b6a)
 - [20211114 [강의정리] OOP-class](https://cookie-giant-a00.notion.site/2-OOP-class-9d37334197094091a99002a7c4fd5aaa)
 - [20211114 [강의정리] OOP-모델링](https://cookie-giant-a00.notion.site/2-OOP-8114ec073af645e589294304144a062b)
+- [20211122 [강의정리] OOP-인터페이스](https://cookie-giant-a00.notion.site/3-a104612518184922aa0473b4d40e426c)
+
   <!-- - [YYYYMMDD 게시글 이름](링크) -->
