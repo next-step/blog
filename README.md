@@ -1,6 +1,7 @@
 9기
 - [20211107 FEConf KOREA 2021 에서 받은 인사이트](https://code-reading.tistory.com/122)
 - [20211115 리액트 라우터 이해하기](https://code-reading.tistory.com/123)
+- [20211129 JS 단방향 연결리스트 기능 구현](https://code-reading.tistory.com/124)
 <!-- <br/>
 <p align="middle" >
   <img width="200px;" src="./src/images/coffee_emoji.png"/>
