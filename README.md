@@ -1,4 +1,4 @@
-## ☕ 블랙커피 블로그 스터디
+# ☕ 블랙커피 블로그 스터디
 
 나의 경험, 다른 사람의 경험에서 통찰을 얻기 위한 블로그 스터디
 
@@ -11,38 +11,50 @@
 
 - [20210308 Client-Side에서 Youtube API Key 숨기기](https://velog.io/@bigsaigon333/Client-Side%EC%97%90%EC%84%9C-Youtube-API-Key-%EC%88%A8%EA%B8%B0%EA%B8%B0)
 
----
-
 ## 2021-03-15 월 2주차 블로그 글 등록
 
 - [20210315 프로젝트를 시작하기에 앞서 - package 설정](https://velog.io/@bigsaigon333/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%97%90-%EC%95%9E%EC%84%9C-package-%EC%84%A4%EC%A0%95)
-
----
 
 ## 2021-03-22 월 3주차 블로그 글 등록
 
 - [20210322 gh-pages: dist 디렉토리만 deploy 하기](https://velog.io/@bigsaigon333/gh-pages-dist-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC%EB%A7%8C-deploy-%ED%95%98%EA%B8%B0)
 
----
-
 ## 2021-03-29 월 4주차 블로그 글 등록
 
 - [20210329 우아한테크코스 두 달 생활기](https://velog.io/@bigsaigon333/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EB%91%90-%EB%8B%AC-%EC%83%9D%ED%99%9C%EA%B8%B0)
-
----
 
 ## 2021-04-19 월 5기 1주차 블로그 글 등록
 
 - [20210419 페어 프로그래밍을 더 잘하기 위하여 - 셀프 회고](https://velog.io/@bigsaigon333/%ED%8E%98%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%98%EC%97%AC-%EC%85%80%ED%94%84-%ED%9A%8C%EA%B3%A0)
 
----
-
 ## 2021-04-26 월 5기 2주차 블로그 글 등록
 
 - [20210426 What I Learned: Level1 javascript-lotto](https://velog.io/@bigsaigon333/Level1-javascript-lotto-%ED%95%99%EC%8A%B5-%EB%A1%9C%EA%B7%B8)
 
----
-
 ## 2021-05-03 월 5기 3주차 블로그 글 등록
 
 - [20210503 새로운 기술을 배우는 사람들을 위한 안내서](https://velog.io/@bigsaigon333/%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EC%88%A0%EC%9D%84-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%88%EB%82%B4%EC%84%9C)
+
+## 2021-09-27 월 8기 1주차 블로그 글 등록
+
+- [20210924 Yarn Berry 도입기](https://velog.io/@bigsaigon333/Yarn-berry-%EB%8F%84%EC%9E%85%EA%B8%B0)
+
+## 2021-10-04 월 8기 2주차 블로그 글 등록
+
+- [20211004 기술적으로 어려운 문제를 해결한 경험: Redux 도입기](https://velog.io/@bigsaigon333/Redux-%EB%8F%84%EC%9E%85%EA%B8%B0)
+
+## 2021-10-11 월 8기 3주차 블로그 글 등록
+
+- [2021-10-04 화 ~ 2021-10-11 월 회고](https://voltaic-fruit-e0b.notion.site/2021-10-04-2021-10-11-16d6e3af41a0462b8754fb1131f0e78f)
+
+## 2021-11-08 월 9기 1차 블로그 글 등록
+
+- [2021-11-01 월 ~ 2021-11-07 일 회고](https://velog.io/@bigsaigon333/2021-11-01-%EC%9B%94-2021-11-07-%EC%9D%BC-%EC%A3%BC%EA%B0%84-%ED%9A%8C%EA%B3%A0)
+
+## 2021-11-15 월 9기 2차 블로그 글 등록
+
+- [JS의 super 키워드에 대하여](https://velog.io/@bigsaigon333/super)
+
+## 2021-11-22 월 9기 3차 블로그 글 등록
+
+- [심야책방 소개글](https://bigsaigon333.notion.site/fa173a276d3941538dcdfc0cb0eca237)
