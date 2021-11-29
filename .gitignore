@@ -239,4 +239,7 @@ temp/
 !.vscode/extensions.json
 *.code-workspace
 
+# git history
+.history/*
+
 # End of https://www.toptal.com/developers/gitignore/api/node,vscode,intellij
